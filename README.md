@@ -1,6 +1,6 @@
 # Tidal wave
 
-CLI to control Elgato Wave XLR via USB
+CLI to configure Elgato Wave XLR via USB
 
 ## Warning
 
