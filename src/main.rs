@@ -399,9 +399,7 @@ impl Config {
             use_cached: _,
         } = user_config;
 
-        eprintln!("{gain:?}");
         if let Some(gain) = gain {
-            eprintln!("{gain}");
             self.gain = *gain;
         }
         if let Some(mute) = mute {
